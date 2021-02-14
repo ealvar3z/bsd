@@ -1,0 +1,4 @@
+pkg_scripts=dnscrypt_proxy
+sshd_flags=NO
+unbound_flags=-c /var/unbound/etc/myunbound.conf
+xenodm_flags=
