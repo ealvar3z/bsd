@@ -1,5 +1,4 @@
 #!/bin/ksh
-#https://github.com/qbit/dotfiles
 
 YT=$( which youtube-dl )
 MP=$( which mpv )

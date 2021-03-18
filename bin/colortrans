@@ -14,9 +14,9 @@ I'm not sure where this script was inspired from. I think I must have
 written it from scratch, though it's been several years now.
 """
 
-__author__    = 'Micah Elliott http://MicahElliott.com'
+__author__    = 'e. alvarez'
 __version__   = '0.1'
-__copyright__ = 'Copyright (C) 2011 Micah Elliott.  All rights reserved.'
+__copyright__ = 'Copyright (C) 2021 e. alvarez.  All rights reserved.'
 __license__   = 'WTFPL http://sam.zoy.org/wtfpl/'
 
 #---------------------------------------------------------------------

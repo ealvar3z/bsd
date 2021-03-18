@@ -1,9 +1,9 @@
 #!/usr/local/bin/zsh
 #
-# ~/bin/colours
+# ~/bin/colors
 #
 # Prints terminal colour scheme information
-# Usage: ./colours [-v]
+# Usage: ./colors [-v]
 
 hexes=($(xrdb -query | sed -n 's/.*color\([0-9]\)/\1/p' | sort -nu | cut -f2))
 names=(black red green yellow blue magenta cyan white)
