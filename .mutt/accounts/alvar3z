@@ -2,9 +2,9 @@
   set sendmail  = "/usr/local/bin/msmtp -a alvar3z"
   set mbox      = "+alvar3z/all_mail"
   unset record
-  set postponed     = "+alvar3z/drafts"
-  set signature     = ~/.mutt/accounts/alvar3z_sig
-  set pgp_sign_as=0x0719E8872FD74053
+  set postponed = "+alvar3z/drafts"
+  set signature = ~/.mutt/accounts/alvar3z_sig
+  set pgp_sign_as= ~/.secrets.yml
 
 color status green default
 
